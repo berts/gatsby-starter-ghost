@@ -1,10 +1,11 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://idar.pro",
+    "contentApiKey": "efa6a9913a5596110e7dfe5c59"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://idar.pro",
+    "contentApiKey": "efa6a9913a5596110e7dfe5c59"
+  
   }
 }
